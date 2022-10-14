@@ -20,5 +20,5 @@ test {
 }
 
 tasks.create("stage") {
-    dependsOn("installDist")
+    dependsOn("build")
 }
