@@ -27,3 +27,5 @@ jobs:
       with:
         name: Test report
         path: build/reports/tests/test
+    - name: Test
+      run: ./gradlew test --tests "*"
