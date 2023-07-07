@@ -1,6 +1,6 @@
 # JavaWalkingSkeleton
 
-## Cambio texto
+## Cambio texto otro cambio
 
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
